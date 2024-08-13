@@ -4,4 +4,4 @@ image: jekyll/jekyll:3.8
 # Build command
 command: jekyll build
 # Public directory
-public: https://mus-listening.statichost.eu/
+public: _site
