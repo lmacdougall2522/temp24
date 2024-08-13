@@ -1,0 +1,7 @@
+# FILENAME: statichost.yml
+# Docker image to use for building
+image: jekyll/jekyll:3.8
+# Build command
+command: jekyll build
+# Public directory
+public: _site
